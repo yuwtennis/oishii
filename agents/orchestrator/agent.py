@@ -72,7 +72,6 @@ nutrition_agent = RemoteA2aAgent(
     input_schema=UserDemographic,
 )
 
-# TODO Consider iterative refinement
 root_agent = LoopAgent(
     name='refinement_loop',
     description='Refines the agent output',

@@ -1,0 +1,120 @@
+{
+  "eval_set_id": "test_case",
+  "name": "test_case",
+  "eval_cases": [
+    {
+      "eval_id": "I_want_to_refresh_my_body_with_minerals_and_vit",
+      "conversation": [
+        {
+          "invocation_id": "e-ef1284ba-d451-4627-baee-1582844be1db",
+          "user_content": {
+            "parts": [
+              {
+                "text": "I want to refresh my body with minerals and vitamins from heavy workout that I had today. Introduce me restaurants near Shinjuku Station."
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "text": "Here are 5 recommended menus at restaurants near Shinjuku Station that are perfect for replenishing minerals, vitamins, and protein after a heavy workout:\n\n### 1. **Mr. FARMER Shinjuku Mylord**\n* **Menu:** **Power Protein Salad**\n* **Why it's great:** Mr. FARMER is famous for its farm-to-table vegetables. This salad is loaded with nutrient-dense greens, protein-rich grilled chicken breast, boiled eggs, and avocado. It provides a perfect balance of clean protein for muscle repair, healthy fats, and a massive dose of vitamins and minerals to restore your body.\n\n### 2. **GREEN BROTHERS Shinjuku (Salad Bowl)**\n* **Menu:** **Protein Charge Salad**\n* **Why it's great:** A heavy-duty salad designed specifically for recovery. It combines leafy greens like spinach and romaine with grains, grilled chicken, and mineral-rich broccoli. This bowl is packed with potassium, iron, and B-vitamins, which are essential for replenishing what you lost during your sweat session.\n\n### 3. **Yasaiya Mei (Shinjuku Mylord)**\n* **Menu:** **Seasonal Vegetable Shabu-Shabu or Steamed Vegetable Set**\n* **Why it's great:** Yasaiya Mei specializes in fresh vegetables sourced directly from Japanese farmers. Gently steaming or lightly boiling vegetables helps preserve water-soluble vitamins (such as Vitamin C and B-complex) and minerals. It’s an easily digestible, warming meal that assists in gentle recovery.\n\n### 4. **Ootoya (Shinjuku East Exit)**\n* **Menu:** **Charcoal-Grilled Chicken and Vegetables with Kurozu (Black Vinegar) Sauce Teishoku**\n* **Why it's great:** A classic and highly balanced Japanese meal. Kurozu (black vinegar) contains citric acid, which is highly effective for fatigue and lactic acid recovery. Combined with chicken and an array of root vegetables, this dish offers a superb balance of protein, vitamins, and minerals.\n\n### 5. **AIN SOPH. ripple (Shinjuku/Kabukicho)**\n* **Menu:** **Vegan Cobb Salad Bowl**\n* **Why it's great:** A 100% plant-based option that is dense with nutrients. This bowl features rich avocado (high in potassium and healthy fats), protein-packed beans, soy chicken, and an assortment of fresh, colorful vegetables. It’s excellent for reducing post-workout inflammation and restoring essential vitamins.",
+                "thought_signature": "AY89a1_AHO0yUEA78aQ-6eopiNzjUq9WWQ0gwkgupjrvRM8Rrd9HwtzjkRf9p4MeP9t64EOvPGpNF6p26Xe6qySXjAUTX2dzv4cqgwdQj9hDXpnY7j5U6s8kT0X_RpBs594qyzTtCNltvMhWemkP9DccdkKjVMRkTRMSh6ZKFiShYrynOg9KL-SHTE60ozWW_ipwBoL4vwrEn30UHPcZOp0zyg3s21U3wGai5TT7HBDhmdUtbLPvucjcMOZFY0LLomF38BswYgmV9I3wrihwWKqnMUZgRRis6ltgKl9xlXsLb1s0GlOQmInbTAStJoJrSMAKWIPELuVSsxtv4CGsDURymUFA_bC_EpCzlVh-2gYukEPw08kZWSjBBxz_a_ug9yThUyIYXom8pN8WmghNbqtcLYqNQhJgQ9_t4WQOszlc5uimlepAOZXTkvKXK8W7SCJbEpXf7UYh9Bp8rdtRCKY4v5kEjhvEbB0FLD6HlzWlYIn9uUc4lSaCtgbEdDCPP1WLpjhhWkvO39MzHGYY7HQf3pmmJe1fv16RGkCtFya6eNa9zQRMnqjJywDDFaJLHBIcUDPmiMFuOBdv1W_a_hif5lRbxUqVQU6ulVFcXQonOtd5pdijX_-D7byv_Lijyya-PmagK7JtoI9te1qLy-8zOQQgWmj_nBnEgp_13aLHe6wKUIjAd2tJKeR_KZzabtapwAwDB-XBD9IFnBYn1aVFhFstw_kLj1CtOY-hl9j9-2ya6XvBvLpCPrU52dMvgXYV5BMQmuMjGR7JMKfihv_H5MtPmFi95kTtdUedMcTJjcozD6luibG2Eu-C_QqP8scJ844muHvp_peOUhEeZjgYmPmMi81iDo4j66GiW06Ai0TWn2HdSW3HXk_sja5ewGE2ts2sI7ze5PO4RLnlN_OhCLWYPXFtgG-NqaXkcnyvCIj-wJs8ycB2xy69IlF8GXG8e0HAC9qbJz-y0WY5Mu6q75BiZ4GwTbFqazJ_OiPQkRjgVcGjvyUX2ZBG56f_hrstnH-DBQNbtC5HSjnixI4S19xGieVQ7ENKWph8xMicqxgc3esiL3Q8d8TrszKRT_0cj_yYRutTUX_sTAWazT0c4XExevtSIWxZMMM-Bc2tjSd7BJbrVEainpUxYJlsj54O9BKw2hmvx-H6yOmx731JIPjPj4Mc7-X3x6v6vd-RLwqepnaUIZ9OvT-BePqcaje8E8tTFQRSh5GKMh6KyPIdlAH_9ptGYCQqzjDfWwf0dhp7p7LyxYo3k9DNoC4DdygviLgUfSOwq85SDlt35OK9tudGNt_kTun5Jiy5j-EJ77BUtsU6x2SXKZ0m-5SvzdBO6iJFkn3Af4-tIDSvp1YdJVPBUwlsLPOq96jf5O17ue5cjaGEzkUTNsmqbqP82uQqGcZGqAuCAwcA_KTRg1ZcGm6K9ZfHdH65kjTIc53UxPUqwprE9L8lJpt0k3tdNy59ybMxq-Li8-nz4immfu_qXEJ1b5lVHx_aPonTIT_g_AVxVrH1kr_Bw8o90Wn-RJDuIGaxtHOH-tvvHlAjqPsgVEcnUW09g3H3sLcKOskrIuQ9cCJB8YG5ey4s8ufPuhav0EJ367QhfWpUn-tld4OURzUaTzxfRLVY9mjPwUTdYg6Yynyv4BEsDPV29klmzYO33Sd1l3hcKRWJA1qkkF2o-v3x9IGEH3nhNETiWW62kM92mRBhoFbfN5zdlTwZ40LyXK-F3XftGkIKyiMwW9JqrSEOFOGdKwhzrqREwjPc0LK_xrA11lSfptFo12VTlTjjSouDDeXqrX-Es6ZCmOEN8DBOgHlSPyvCaDkzCoRtL727IJoyDqk-dtobLxOA_7GmljOQSFDnLLztQ-eMQEWilPbjWuxQYHEmdcBd_KinLG5slBae7z8S4BALf1vvS7ZX-JqFNKB4bUOnJtW1Z9ZeG6IjIDAXrvs6rg_YyMpv297Mqv1o_6u4jXowvw4njGtXimyPpzfhZB0y3jM_syvyUjoCbp27n5UQ7GTG76JRO_Qo_xZwWb61ZeY1hllzgyt7BC-JDg_XA6d3brTTZ7_gddE0tlCOZC1c110MPHA8_YUeQNsdd83axobIJo00EpKRtArh-4h9H8mv2lDW1K8A-5R_585j5C6yH0gEOisWDWUOtDTlsjHBO-vG-eUVEyxUuw-nCRjs-NcE0k5ayMQJPGqrThcg0G_J2CuUn3gxh8TaG3IZW7jVYOC2iIaSfjTiKd_JE3Y6jLIeG-zSyVpGrX8Uhzan2gm5FKiA6s2BRpCzpwlz6p2Sn_K-CGp4LmpdbKBtXyrX8nKHOeTHLy3s8Grzg9EAYgl5WDPcbogy8l4kHLD494RJnJrerbgeuIhILitz7H6P-TVfKXCMWhv1Xj4cOKBF7NTuotwFQmJvJXKc08gu7IdwAHPMxuJB5HykgZQ5RMCOrj1ynDhM8C24LajJAxhVCFFgbrYBGEroTkU_9LzP7ca3JicEFjrBilc25lJniWmnMSz94yYp3h1xTawHWJBEehYq-u30vUuquYFyXBVhMLG49YbIFmyE_1ZrGgahKviZPGkf3BhPfwtMWyXzo28MNVzMc5BQ66q3wUBFT6KkM5V4-hqAk859yRgHWhAwVLnthnfxMvp2pdscCm-UP3tWGUoLSE737hvbNIcm8MDjo2TMRG94cYATcLYwk-ZsJ9kjighhN-bzoMMt4M0-Msrvs1reF8bAPG5FFGnbGPD5AzvkijJIvK74SV-j7v7sGgwTO0a6X-4_w-WbYPGLGlSYzojh1VAK-PArAotXsDlfXBRs6TBHzrvYMRUAtrHINtU-aXhHPlfyHixWAwKUQKCQylkFBIO3XkFL1Qy6yclsxyWjLGOzhjtwijbh9TlGPY8RTg3KnisiHkBbyCK_hWhewepL9Pgu5wAhgicpP5csym51Fh-AshzZtfPZY7laV8gXOOixYvkvT7biM9W6GBKEOR7a01cfxtshrHk3Gx589LEcKj5F83oEvM7DCcFNunOq0ONaGh-iI0p0lVin0Fr4P8ChPtYCqp1ph88Q__E-rNHGNjgS36LyyD5A0u4hJeE4XfSINt8dcWTWk6E28psCkrbUrntH1iEcFfffUlo3ZDRIzAaT5qaENLJn-GKwuSY4efqK1FUBrnKbe3JpssSPq0KLzaBz43ja_AHSJ_Y-6DFdFg1QZP0JEJbVkSFikVGYF7t5BTZEMR5bimrPaB06Dw93JhwWFho2kTq6p82Wg7UlgRRUgx6rSTQmXxxUCvxg3TX-k5Euw9khJ5tPUXTW-YANGqP9-Xhvk_ARtck_5rqxDKONBHgdjkQd645DtEWOoY2QgjzKx_p9BAcvKe1JmdA1z7cY9Uz65gzR3Prd-09zwPPz4G0IGL2lO6fu7wMiTjeU9a2U607QJepoWcjqbFJbdE66nsmLUZCOvPzhA48V21a1lcvmD-zuFNX5LkZb5fJsIcWCN3l6eFd-2OId3h9hLbQDTJyf3hqJVnIKQZd6b3nDqO5u0vGnKEcysldhmlMKY_lMqp_Nw1JzcsKkIE1G4-i0KEcx9iS5vxmW8yGmVWgVHf9Ja1TfhVbf4qlnw1oCoiVFcx2knjfRvPCMYGnSMV5k40IkSamgNq3RbP0Jwee0nTgh-7E89ChkQnaVG2ckRg6Zj2RWXYrmAna9clEN46AlA2oA_Cl2Fsw6OE8_ggIHG7v_CLHXzfDfk4800KcxgOlzZaROpGLc6QSPy5KjgR4XWnMc2grGisuwh4Tnqs5Pi5WqzBt5LGHphnEa4b-ZaeZjRJzWmF1ZxaRnY2mc38giDTzqPOijgu001mftE247YYNiWICeQYZ1u85L1czK61twLUAs2O2ArBQ0jn7i73uzvlnH2IEy6m4d71qhVLwLhfWWvudMPCyk0uQSdjqaJHRxXVWgplY_xgRHt5mzCNZiGIB89ZHl6oMpknaSTLV8sX0Yw-b01_kLOOeRwqG_He3aTywFV6OiT0ybWvUR7qCPeNGmfxShJkpF2piiyC2519AQOJecQJmFGKAG1Ixm2NCzT-0BUQ3ztQvZluZaBpNVIQsbLGXW-DRDtnKOxJ6oggUjg1V7yJ699b5ZZEcoejy9NubKHETl8zGhPFLDLVsAEADcaRswPLHLSQhbBaarSf4wzyn4vn3dHlFZibWNjwGyWkqqc_yoa5GRQ7lIWrX-iCG46Y-1FRYYmuoW9RKOvjJxyCr9OsgyqHPk4PvmBSqQQYN2AkTKGcOCcqTUtaSyv7PbhXhjIXufvfcwJ2Gafi_xVi3CEJIRhNclVHnW5Aa_W1K8Wd2jglv393NKQUCXe5iYjeUY92H9eAYIAu5TG47GCzOgGT-WQ3eiA6TNS76qt-P7QcoGuo-V0Tz6FYjHpARqN31BJYQ68-bgK5ocBAsxt6Jd7HCk7jMHHtfwIv1VZNaAXB8f1sbW9MlM02LQrAos1LxUSh0OXAMTqWMxHgZ00AyUkavhHjdlLWOicQjzQ__LFVRTCGI9qrJ0nK7f8TA0FnLjJRrBj_rXAZKQd4moV9ujW-2BCsi6Iy35C46eGXQu9M7LqcyiIESbBQ5DWxXJZE07y01vuk_xSj7sGSTXP0bcucuw2so0JihZ9ka09lLQbNiqZbmX9QMYiprSEcD1wXcP_WHy-Rk6wos5flxBjOGlZ-TGEgXTLFV2-9GrTsCStYoQKc0J_s5LtAOmHLzB8B8afc_AIZnur2K0u0LEld_G96f7x5OwevehH21Zya18gk46GDqaijWe6iILih5Wl9f-anXVkwmXlO4MByL2oG_h16h9YNChU4HQ7LNsDD7Q_2pMsAltYAzMuGAtG6an67PLhBVAL_HpZIZ9rGHMi4u3NIxNqNUH-Y7mgnvHy9vL4QMhS5QG_oyPE4uku2klbTOp1cnIHldSSopAOuTaNdxfPXgzlNCp3cPzC8CtpO_gOm97DEll9nosyTuHJ14vEK0L1LFBhOy6Qj5FbesXFYwwves9mNwh7mGNF0leGw99bqGyefkdXvaQ9SzS2BDwEDFaEbz_21-wfHuxThegVzq_e_RVwYi-40ddbZ80QjPYz-86CHwT3HYTWaMeL8y7sikYs3qKgQJI2Ii31snHzG02b2LtaRLkWJkarcQ6RsnJDQ9l0kvINGxScKnpyczznp99BeFiHf0DjH5wIFUm7lBEsDROx4a44yLRYuKYb3rcvCZsSKuxspAesUiGEIRXMon15DC_Ipa3ZwrB_9Zdq3qBMb8sBHAMQgocVInr8dPo75znXHHRiTLBqvuDgfS4Eu1nHohxtyW4vjO5e_UrbxI7DDJQyL2xgPFl_UZeNv8PuQwPnSIp5s6c8FVS_uQ51XTOzQjvNljcWsGcS2qNwckWyslyZVEF-Ln24eBm_lUr4liAQPb5UJQYEiEUg_nWw2iX9N9wrQ-r6YfQw6MEDdNuop4DOzZFnxPJGkIWXEyZY1tywimwinW-87Nxt8RB9lSQ3ZhUxCcqlycWLDQMXwe6MlxLpGJCyt_jILxSClI4IP_oGpA5MReAg1wfPQO30otkwbubggF13OKEqRDK1_zpra2LBT6-8P9Ab8UJu_3F5SDgmNWnxrQUG-U0TX2SUxgleBhumGEstYO0YGce2IKVppVSzRdasMMYR5oM8vCmvxikm8ALaY8="
+              }
+            ],
+            "role": "model"
+          },
+          "intermediate_data": {
+            "invocation_events": [
+              {
+                "author": "menu_concierge",
+                "content": {
+                  "parts": [
+                    {
+                      "function_call": {
+                        "id": "call_1251573947844107419",
+                        "args": {
+                          "location": "Shinjuku Station"
+                        },
+                        "name": "check_location"
+                      },
+                      "thought_signature": "AY89a1-mEjHYSszY6ZfhVQJWT5xAaLMfxCfVyzzLh6G36XKHGASbSZOa64KQZTimSKkImG6QvxPJnxdBZWVhAgxMqo9S8jKW5wNT1Zmmmmgdn9-77HytQGt28T2BEbajzGCqNnGzxKroGKDy0Ncc0qJ1xdTFlPMG68MmaXqdnSJqf9oIR-PO2kc6WwIPRS7Ynm0_0KqeibHKR5dWXCe_ix6XNSNXDOaNiU04pt7oApxQvQMiH2cwwFtVgW-mBwlBJCUryZE1_2mYXkYN8AgyIhEHzd1qSEb8u8SlV5nor72lA5afnlE8-BK51MfQ8KEyTMLfGnJA20i-XtMDS0WdkDeetD9Stp8F9DlpBw2LpXmgZlOcEImbcGbTM__GNN_JMPonjN2kDR1OKi_DtCAgL9_bMn6BeGKeTupKa3A4GgX7ZEYxko2NRVrGcTU7zc8x2xDvwiDcGbZlOSsxVGY="
+                    }
+                  ],
+                  "role": "model"
+                },
+                "usage_metadata": {
+                  "candidates_token_count": 19,
+                  "candidates_tokens_details": [
+                    {
+                      "modality": "TEXT",
+                      "token_count": 19
+                    }
+                  ],
+                  "prompt_token_count": 265,
+                  "prompt_tokens_details": [
+                    {
+                      "modality": "TEXT",
+                      "token_count": 265
+                    }
+                  ],
+                  "thoughts_token_count": 64,
+                  "total_token_count": 348,
+                  "traffic_type": "ON_DEMAND"
+                },
+                "model_version": "gemini-3.5-flash"
+              },
+              {
+                "author": "menu_concierge",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "call_1251573947844107419",
+                        "name": "check_location",
+                        "response": {
+                          "status": "success",
+                          "report": "Location is valid."
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                }
+              },
+              {
+                "author": "menu_concierge",
+                "usage_metadata": {
+                  "candidates_token_count": 529,
+                  "candidates_tokens_details": [
+                    {
+                      "modality": "TEXT",
+                      "token_count": 529
+                    }
+                  ],
+                  "prompt_token_count": 355,
+                  "prompt_tokens_details": [
+                    {
+                      "modality": "TEXT",
+                      "token_count": 355
+                    }
+                  ],
+                  "thoughts_token_count": 1019,
+                  "total_token_count": 1903,
+                  "traffic_type": "ON_DEMAND"
+                },
+                "model_version": "gemini-3.5-flash"
+              }
+            ]
+          },
+          "creation_timestamp": 1794309399.0573738
+        }
+      ],
+      "session_input": {
+        "app_name": "concierge",
+        "user_id": "user"
+      },
+      "creation_timestamp": 1794309430.512637
+    }
+  ]
+}
